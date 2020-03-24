@@ -18,7 +18,7 @@ A starter pack for developing Javascript application.
 ### Step 1
 Open your command line window and type:
 ```javascript
-git clone https://github.com/eye1985/javascript-application-starter.git
+git clone https://github.com/ipansensoy/js-app-starter-kit.git
 ```
 
 ### Step 2
